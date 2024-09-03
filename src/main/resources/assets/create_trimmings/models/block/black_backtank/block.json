@@ -1,0 +1,7 @@
+{
+	"parent": "create:block/copper_backtank/block",
+	"textures": {
+		"0": "create_trimmings:block/backtank/black_backtank",
+		"particle": "create_trimmings:block/backtank/black_backtank"
+	}
+}

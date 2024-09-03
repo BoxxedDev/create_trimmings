@@ -1,0 +1,20 @@
+{
+  "values": [
+    "create_trimmings:white_backtank",
+    "create_trimmings:orange_backtank",
+    "create_trimmings:magenta_backtank",
+    "create_trimmings:light_blue_backtank",
+    "create_trimmings:yellow_backtank",
+    "create_trimmings:lime_backtank",
+    "create_trimmings:pink_backtank",
+    "create_trimmings:gray_backtank",
+    "create_trimmings:light_gray_backtank",
+    "create_trimmings:cyan_backtank",
+    "create_trimmings:purple_backtank",
+    "create_trimmings:blue_backtank",
+    "create_trimmings:brown_backtank",
+    "create_trimmings:green_backtank",
+    "create_trimmings:red_backtank",
+    "create_trimmings:black_backtank"
+  ]
+}
