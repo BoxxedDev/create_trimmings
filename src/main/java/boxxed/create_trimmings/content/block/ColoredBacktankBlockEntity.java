@@ -1,4 +1,4 @@
-package boxxed.create_trimmings.foundation.block;
+package boxxed.create_trimmings.content.block;
 
 import com.simibubi.create.AllBlocks;
 import com.simibubi.create.AllItems;

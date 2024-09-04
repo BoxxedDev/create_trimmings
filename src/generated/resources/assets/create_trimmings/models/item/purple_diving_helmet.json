@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_trimmings:item/purple_diving_helmet"
+  }
+}

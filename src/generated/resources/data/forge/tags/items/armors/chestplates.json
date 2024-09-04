@@ -1,5 +1,7 @@
 {
   "values": [
+    "create_trimmings:trans_backtank",
+    "create_trimmings:rainbow_backtank",
     "create_trimmings:white_backtank",
     "create_trimmings:orange_backtank",
     "create_trimmings:magenta_backtank",

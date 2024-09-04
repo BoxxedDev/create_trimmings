@@ -1,9 +1,7 @@
-package boxxed.create_trimmings.foundation.block;
+package boxxed.create_trimmings.content.block;
 
 import com.jozufozu.flywheel.api.Instancer;
 import com.jozufozu.flywheel.api.MaterialManager;
-import com.simibubi.create.content.equipment.armor.BacktankBlockEntity;
-import com.simibubi.create.content.equipment.armor.BacktankRenderer;
 import com.simibubi.create.content.kinetics.base.SingleRotatingInstance;
 import com.simibubi.create.content.kinetics.base.flwdata.RotatingData;
 

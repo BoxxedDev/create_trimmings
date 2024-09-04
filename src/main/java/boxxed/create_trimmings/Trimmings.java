@@ -33,6 +33,7 @@ public class Trimmings {
         TrimmedBlocks.init();
         TrimmedItems.init();
         TrimmedBlockEntityTypes.init();
+        TrimmedCreativeModeTabs.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);

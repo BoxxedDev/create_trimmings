@@ -1,11 +1,10 @@
-package boxxed.create_trimmings.foundation.block;
+package boxxed.create_trimmings.content.block;
 
 import com.jozufozu.flywheel.core.PartialModel;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.simibubi.create.AllBlocks;
 import com.simibubi.create.AllPartialModels;
 import com.simibubi.create.content.equipment.armor.BacktankBlock;
-import com.simibubi.create.content.equipment.armor.BacktankBlockEntity;
 import com.simibubi.create.content.kinetics.base.KineticBlockEntityRenderer;
 import com.simibubi.create.foundation.render.CachedBufferer;
 import com.simibubi.create.foundation.render.SuperByteBuffer;

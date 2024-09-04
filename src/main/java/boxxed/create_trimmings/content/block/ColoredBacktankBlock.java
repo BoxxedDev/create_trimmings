@@ -1,10 +1,8 @@
-package boxxed.create_trimmings.foundation.block;
+package boxxed.create_trimmings.content.block;
 
 import boxxed.create_trimmings.TrimmedBlockEntityTypes;
-import com.simibubi.create.AllBlockEntityTypes;
 import com.simibubi.create.AllEnchantments;
 import com.simibubi.create.AllShapes;
-import com.simibubi.create.content.equipment.armor.BacktankBlockEntity;
 import com.simibubi.create.content.equipment.armor.BacktankItem;
 import com.simibubi.create.content.kinetics.base.HorizontalKineticBlock;
 import com.simibubi.create.foundation.block.IBE;
