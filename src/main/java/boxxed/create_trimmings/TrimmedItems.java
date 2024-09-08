@@ -10,6 +10,7 @@ import com.simibubi.create.content.equipment.armor.DivingHelmetItem;
 import com.simibubi.create.foundation.data.AssetLookup;
 import com.tterrag.registrate.util.entry.ItemEntry;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraft.tags.ItemTags;
 
 import static com.simibubi.create.AllTags.forgeItemTag;
 import static boxxed.create_trimmings.Trimmings.REGISTRATE;
@@ -56,6 +57,7 @@ public class TrimmedItems {
                 .model(AssetLookup.customGenericItemModel("_", "item"))
                 .tag(AllTags.AllItemTags.PRESSURIZED_AIR_SOURCES.tag)
                 .tag(forgeItemTag("armors/chestplates"))
+                .tag(ItemTags.TRIMMABLE_ARMOR)
                 .register();
     });
 
@@ -65,6 +67,7 @@ public class TrimmedItems {
                 .item(colorName + "_diving_helmet",
                         p -> new DivingHelmetItem(AllArmorMaterials.COPPER, p, new ResourceLocation(Trimmings.MODID,colorName + "_diving")))
                 .tag(forgeItemTag("armors/helmets"))
+                .tag(ItemTags.TRIMMABLE_ARMOR)
                 .register();
     });
 
@@ -74,6 +77,7 @@ public class TrimmedItems {
                 .item(colorName + "_diving_boots",
                         p -> new DivingBootsItem(AllArmorMaterials.COPPER, p, new ResourceLocation(Trimmings.MODID,colorName + "_diving")))
                 .tag(forgeItemTag("armors/boots"))
+                .tag(ItemTags.TRIMMABLE_ARMOR)
                 .register();
     });
 

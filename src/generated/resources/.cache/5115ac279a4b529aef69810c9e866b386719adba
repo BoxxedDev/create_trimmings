@@ -1,4 +1,4 @@
-// 1.20.1	2024-09-03T16:35:07.8477493	Registrate Provider for create_trimmings [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+// 1.20.1	2024-09-04T16:26:45.0567877	Registrate Provider for create_trimmings [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
 d89061a809bb0d21097854981dfd81f76c6e7b9c assets/create_trimmings/blockstates/black_backtank.json
 8a57b0a213432d5c867db499dcbce6d7799f0750 assets/create_trimmings/blockstates/blue_backtank.json
 611b4a84a6428d1b9094a5a9668fe7e33a0a2284 assets/create_trimmings/blockstates/brown_backtank.json
@@ -110,3 +110,4 @@ f4eafc1f38fa20485092e1232cde455ca2dacdfa data/create_trimmings/loot_tables/block
 1b918bc29c9d43fc5b90cec566d5f82958d592bc data/forge/tags/items/armors/chestplates.json
 bf760cf060e8621c6f62fb293fadc072bbc2833d data/forge/tags/items/armors/helmets.json
 0e92e0dff20b23fae48580110729eb81f48812b3 data/minecraft/tags/blocks/mineable/pickaxe.json
+0e9d0f812a0206307eb2ccdcbdc123a910b6652a data/minecraft/tags/items/trimmable_armor.json

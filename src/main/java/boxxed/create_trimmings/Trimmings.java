@@ -21,7 +21,7 @@ public class Trimmings {
     // Define mod id in a common place for everything to reference
     public static final String MODID = "create_trimmings";
     // Directly reference a slf4j logger
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
     public static final CreateRegistrate REGISTRATE = CreateRegistrate.create(MODID);
 

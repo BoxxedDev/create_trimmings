@@ -5,8 +5,10 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "create_trimmings.refmap.json",
   "mixins": [
+
   ],
   "client": [
+    "HumanoidArmorLayerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
